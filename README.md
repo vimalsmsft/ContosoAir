@@ -1,5 +1,4 @@
-
-
+[![Build Status](https://dev.azure.com/vimalsmsft/vimals/_apis/build/status/vimalsmsft.ContosoAir?branchName=master)](https://dev.azure.com/vimalsmsft/vimals/_build/latest?definitionId=2&branchName=master)
 
 # Microsoft.Github CI Demo
 
